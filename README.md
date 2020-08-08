@@ -1,6 +1,5 @@
 # jupytersketches
-Repository of community edited of jupytersketcher sketches (drawings to solve physics problems)
+Repository of community edited jupytersketcher sketches (drawings to solve physics problems)
 
-coming soon
-
-see dual project [jupyter sketcher](https://github.com/gbrault/jupytersketcher)
+- see dual project [jupyter sketcher](https://github.com/gbrault/jupytersketcher)
+- use the gallery notebook to see some sketches from this repository
