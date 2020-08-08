@@ -1,5 +1,5 @@
 !!omap
-- name: springmass
+- name: springdashpotmass
 - parts:
   - name: head
     shapes:
@@ -48,7 +48,7 @@
             style:
                 linewidth: 4
 
-        springmass: |
+        springdashpotmass: |
                       Composition({
                         'spring': spring, 'dashpot': dashpot, 'mass': M, 'left wall': left_wall,
                         'ground': ground, 'wheel1': wheel1, 'wheel2': wheel2,
